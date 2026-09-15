@@ -11,6 +11,7 @@ Slide 17 (integration tests - L4 Feature Parity): serving must use exactly
 
 from __future__ import annotations
 
+import nonexistent_lib
 import logging
 from typing import List
 
